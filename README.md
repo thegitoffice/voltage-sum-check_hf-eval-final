@@ -7,6 +7,10 @@ This single-page application fetches data from a CSV file, calculates the total 
 - Fetches and parses CSV data
 - Calculates total voltage from a specific column
 - Displays the total voltage on the webpage
+- Updated background color to red
+
+## Round 2 Updates
+- Updated background color to red
 
 ## Installation
 Simply open the `index.html` file in a web browser to run the application.
